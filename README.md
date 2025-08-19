@@ -25,9 +25,10 @@ Identificar la tienda menos eficiente y presentar una recomendación final basad
 
 3-Calificación Promedio: Visualización de las calificaciones promedio por tienda.
 
-4-Distribución Geográfica: Visualización de las ubicaciones de las tiendas en un mapa interactivo.
+4-Productos Más Vendidos: Análisis de los productos más vendidos por tienda.
 
-5-Productos Más Vendidos: Análisis de los productos más vendidos por tienda.
+5-Envios promedio: Análisis del costo por los productos enviados por cada tienda.
+
 
 ---
 
