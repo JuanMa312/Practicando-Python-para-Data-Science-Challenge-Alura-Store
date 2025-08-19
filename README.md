@@ -3,6 +3,7 @@
 ¡Bienvenidos al primer desafío - Alura Store!
 ---
 ##Proyecto de Análisis de Ventas por Tienda
+
 ###Descripción
 Este proyecto tiene como objetivo analizar las ventas de varias tiendas y visualizar sus datos de manera efectiva. A través del uso de diversas bibliotecas de Python, como Pandas y Matplotlib, se pueden generar análisis y gráficos que proporcionan una comprensión detallada del rendimiento de cada tienda, la distribución de productos y las características geográficas. Este proyecto también integra datos geográficos para visualizar las ubicaciones de las tiendas en un mapa interactivo utilizando Folium.
 ---
