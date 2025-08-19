@@ -19,11 +19,15 @@ Identificar la tienda menos eficiente y presentar una recomendación final basad
 ---
 
 ## Estructura del Proyecto
--Análisis de Ventas: Cálculo de ventas totales y ventas por categoría para cada tienda.
--Comparación de Ingresos: Gráficos que muestran los ingresos totales por tienda.
--Calificación Promedio: Visualización de las calificaciones promedio por tienda.
--Distribución Geográfica: Visualización de las ubicaciones de las tiendas en un mapa interactivo.
--Productos Más Vendidos: Análisis de los productos más vendidos por tienda.
+1-Análisis de Ventas: Cálculo de ventas totales y ventas por categoría para cada tienda.
+
+2-Comparación de Ingresos: Gráficos que muestran los ingresos totales por tienda.
+
+3-Calificación Promedio: Visualización de las calificaciones promedio por tienda.
+
+4-Distribución Geográfica: Visualización de las ubicaciones de las tiendas en un mapa interactivo.
+
+5-Productos Más Vendidos: Análisis de los productos más vendidos por tienda.
 
 ---
 
